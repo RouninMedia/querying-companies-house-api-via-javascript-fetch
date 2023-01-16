@@ -23,8 +23,10 @@ After you have:
  
  you *must*:
 
-- Add the domain from which you intend to initiate the `fetch()` request to... the **JavaScript Domains** field of the **API Key**
+- Add the domain from which you intend to initiate the `fetch()` request to... the **JavaScript Domains** field of the **API Key Interface**
 
+
+Once you have completed all these steps, you can run the following JavaScript on a page hosted on the domain you have stated above:
 
 ```js
 

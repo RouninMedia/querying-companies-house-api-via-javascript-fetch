@@ -14,16 +14,17 @@ _________
 
 ## #1 Get Company Profile (from Company Registration No.)
 
-**N.B.** Vital information which appears to be missing from the **Companies House Developer Hub**:
+**N.B.** *Vital information which appears to be missing from the **Companies House Developer Hub**:*
 
 After you have:
  - Signed In
  - Created an application *and*
  - Created an API Key for that Application
  
- you must:
+ you *must*:
 
-- Add any domain from which you intend to initiate the `fetch()` request to the **JavaScript Domains** field of the **API Key**
+- Add any domain from which you intend to initiate the `fetch()` request to:
+    - the **JavaScript Domains** field of the **API Key**
 
 
 ```js

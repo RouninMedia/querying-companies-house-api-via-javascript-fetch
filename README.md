@@ -23,8 +23,7 @@ After you have:
  
  you *must*:
 
-- Add any domain from which you intend to initiate the `fetch()` request to:
-    - the **JavaScript Domains** field of the **API Key**
+- Add the domain from which you intend to initiate the `fetch()` request to... the **JavaScript Domains** field of the **API Key**
 
 
 ```js

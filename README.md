@@ -36,7 +36,7 @@ async function getCompanyProfile(companyNo) {
 
   const displayOutput = document.createElement('pre');
   displayOutput.textContent = JSON.stringify(JSON.parse(response), undefined, 2);
-  document.appendChild(displayOutput);
+  document.body.appendChild(displayOutput);
 }
 
 getCompanyProfile('09090909'); // <= MUST BE A STRING, CONTAINING 8 DIGITS

@@ -7,9 +7,9 @@ It can take literally hours of scouring:
  - the [Companies House Developer Forum](https://forum.aws.chdev.org/)
  - the wider web (e.g. [How to use OpenCorporates and Companies House APIs](https://carmen-aguilar-garcia.medium.com/how-to-use-opencorporates-and-companies-house-apis-79ba0647d0d0) by Carmen Aguilar García)
 
-to accrue enough information to figure out how to write the JavaScript to query the API correctly. (The forum contains many answers regarding how to query the API correctly, but some answers are for **cURL**, others for **PHP**, others for **Python**, so it's time-consuming if you only want to find a cut-and-paste *how-to* in **JavaScript**. 
+to accrue enough information to figure out how to write the JavaScript to query the API correctly. (The forum contains many answers regarding how to query the API correctly, but some answers are for **cURL**, others for **PHP**, others for **Python**, so it's time-consuming if you really only want to find a straightforward *how-to* with cut-and-paste **JavaScript** snippets. 
 
-This repo contains a series of working JavaScript snippets to save others time and frustration in future.
+This repo contains a series of working JavaScript snippets to save others time (and possibly frustration) in future.
 _________
 
 ## #1 Get Company Profile (from Company Registration No.)

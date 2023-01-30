@@ -1,4 +1,4 @@
-# Querying UK and EU Company Registration, VAT and EORI APIs
+# Querying UK and EU VAT, EORI and Company Registration APIs
 
 **Contents:**
 

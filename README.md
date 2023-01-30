@@ -2,7 +2,7 @@
 
 **Contents:**
 
- - Querying Companies House API via JavaScript Fetch
+ - [Querying Companies House API via JavaScript Fetch](#Querying Companies House API via JavaScript Fetch)
 
 
 _______

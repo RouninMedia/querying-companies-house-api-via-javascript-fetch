@@ -1,4 +1,13 @@
-# Querying Companies House API via JavaScript Fetch
+# Querying UK and EU Company Registration, VAT and EORI APIs
+
+**Contents:**
+
+ - Querying Companies House API via JavaScript Fetch
+
+
+_______
+
+## Querying Companies House API via JavaScript Fetch
 The official documentation for the **Companies House API** is limited at best.
 
 It can take literally hours of scouring:
@@ -12,7 +21,7 @@ to accrue enough information to figure out how to write the JavaScript to query 
 This repo contains a series of working JavaScript snippets to save others time (and possibly frustration) in future.
 _________
 
-## #1 Get Company Profile (from Company Registration No.)
+### #1 Get Company Profile (from Company Registration No.)
 
 **N.B.** *Vital information which appears to be missing from the **Companies House Developer Hub**:*
 
